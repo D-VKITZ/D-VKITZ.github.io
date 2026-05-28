@@ -1,242 +1,245 @@
 <div align="center">
 
-<img src="docs/images/logo.png" width="80" alt="DEVKiTZ Logo">
+# 🖥️ DEVKiTZ™ Dashboard
 
-# DEVKiTZ™
+### 132+ Module · Kanban · Hub · Builder · Ökosystem · Offline-First
 
-### ⚡ AI Developer Ecosystem — 130+ Module
+*Das vollständige KI-Entwickler-Dashboard — Vanilla HTML5/CSS3/JS · Glassmorphism · Dark Mode · Zero Framework*
 
-[![Beta](https://img.shields.io/badge/Status-Beta%20v2.0-fa1e4e?style=for-the-badge&logo=rocket&logoColor=white)](https://7iked.github.io/devkitz-workspace/)
-[![Vanilla JS](https://img.shields.io/badge/Stack-Vanilla%20JS-ffb800?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Modules](https://img.shields.io/badge/Module-130+-00ff88?style=for-the-badge&logo=grid&logoColor=white)](#-module-galerie)
-[![License](https://img.shields.io/badge/License-Proprietary-a855f7?style=for-the-badge&logo=shield&logoColor=white)](#)
+---
 
-<br>
+![Version](https://img.shields.io/badge/Version-2.0-fa1e4e?style=for-the-badge&logo=semver&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge&logo=statuspage&logoColor=white)
+![Module](https://img.shields.io/badge/Module-132+-6366f1?style=for-the-badge&logo=grid&logoColor=white)
+![Shared](https://img.shields.io/badge/Shared_Scripts-15+-ffb800?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-222?style=for-the-badge&logo=github&logoColor=white)
+![Lizenz](https://img.shields.io/badge/Lizenz-MIT-3b82f6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
-**Das vollständige KI-Entwickler-Ökosystem.**
-Kein React. Kein Framework. Nur Vanilla JS + CSS Custom Properties.
+![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Custom_Props-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![No Framework](https://img.shields.io/badge/Framework-None™-fa1e4e?style=for-the-badge&logo=cancel&logoColor=white)
 
-[🚀 **Live Demo**](https://7iked.github.io/devkitz-workspace/) · [📋 **Beta bewerben**](https://7iked.github.io/devkitz-workspace/hub/gate.html) · [💎 **Crowdfunding**](https://7iked.github.io/devkitz-workspace/hub/gate.html)
-
-<br>
-
-<img src="docs/images/social-preview.png" width="720" alt="DEVKiTZ Dashboard Preview">
+![Glassmorphism](https://img.shields.io/badge/Design-Glassmorphism-6366f1?style=for-the-badge&logo=css3&logoColor=white)
+![Dark Mode](https://img.shields.io/badge/Theme-Dark_Mode-060608?style=for-the-badge&logo=moon&logoColor=white)
+![Offline](https://img.shields.io/badge/Offline-First-00ff88?style=for-the-badge&logo=pwa&logoColor=white)
+![localStorage](https://img.shields.io/badge/Storage-localStorage-ffb800?style=for-the-badge&logo=database&logoColor=black)
+![Inter](https://img.shields.io/badge/Font-Inter-3b82f6?style=for-the-badge&logo=googlefonts&logoColor=white)
+![JetBrains](https://img.shields.io/badge/Code-JetBrains_Mono-fa1e4e?style=for-the-badge&logo=jetbrains&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-Protected-00ff88?style=for-the-badge&logo=shield&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile_First-3b82f6?style=for-the-badge&logo=mobile&logoColor=white)
+![Made with](https://img.shields.io/badge/Made_with-DEVKiTZ™-fa1e4e?style=for-the-badge&logo=heart&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Was ist DEVKiTZ?
+## 📖 Überblick
 
-DEVKiTZ™ ist ein **komplettes Ökosystem für KI-gestützte Entwicklung** — gebaut als Vanilla HTML/CSS/JS Dashboard mit 130+ Modulen. Kein Framework-Overhead, kein npm-Dependency-Hell. Jedes Modul ist eine eigenständige HTML-Datei mit Glassmorphism-Design.
+**DEVKiTZ™ Dashboard** ist das zentrale Frontend des KI-Entwickler-Ökosystems. Mit über **132 Modulen** deckt es alles ab — von Blog-Management über n8n-Workflows bis hin zu Agent-Orchestrierung. Gebaut in reinem Vanilla HTML5/CSS3/JavaScript, komplett ohne Frameworks.
 
-```
-⚡ 130+ Module    🤖 NanoBot Schwarm    🚂 Rail-Loop Pipeline
-🔐 Passkey Auth   📊 Auto-Health        🌐 Matrix Bridge
-💎 DkZ Design v2  🎨 CSS Custom Props   📱 PWA-Ready
-```
+> **Designprinzip:** Schwarz (#060608) + Neon Rot (#fa1e4e) + Glassmorphism. Jedes Modul ist eigenständig lauffähig und teilt sich Shared Scripts. Kein React, kein Vue, kein Angular — niemals.
 
 ---
 
-## ✨ Features
+## 🏛️ Architektur
 
-| Kategorie | Features |
-|:----------|:---------|
-| **🧠 AI & NLP** | Multi-Provider Chat, Text Analyse, Summarizer, Embeddings |
-| **🛠️ Builder** | Agent Builder, Skill Builder, Workflow Builder, Team Builder |
-| **📊 Dashboards** | Hub, Agenten Dashboard, SEO Dashboard, Loop Dashboard |
-| **🔧 Tools** | Format Converter, HTML Viewer, Markdown, Speech-to-Text |
-| **🔐 Security** | Passkey Auth, Security Scanner, Gate System, XSS-Schutz |
-| **🤖 Automation** | NanoBot Schwarm, Tamagotchi Bot, AutoHealth, Watchdog |
-| **📋 Management** | Kanban Board, Playbook Runner, Knowledge Hub, WissenHub |
-| **🌐 Infrastructure** | MCP Dashboard, CI/CD Pipeline, VPS Monitor, Docker |
+```mermaid
+graph TB
+    subgraph DASHBOARD["🖥️ DEVKiTZ Dashboard"]
+        HUB["🏠 Hub<br/>Modul-Launcher<br/>Suche + Filter"]
+        SH["🔗 Shared Scripts<br/>dkz-theme.css<br/>dkz-navbar.js<br/>dkz-console.js<br/>dkz-debug.js"]
+    end
 
----
+    subgraph GALLERIES["🎨 Galerien"]
+        VG["🎨 Vibe Gallery<br/>12 CSS Vibes"]
+        DG["🎨 Design Gallery<br/>15 UI Patterns"]
+        BG["📰 Blog Gallery<br/>12 Posts"]
+        N8["🔄 n8n Gallery<br/>8 Infografiken"]
+        BU["🏗️ Builder Gallery<br/>67 Assets"]
+    end
 
-## 📸 Modul-Galerie
+    subgraph TOOLS["🔧 Tools & Agents"]
+        NC["🤖 NanoBot Center<br/>Agent Fleet"]
+        WH["📚 WissenHub<br/>Knowledge Archive"]
+        SC["📊 System Check<br/>Health Monitor"]
+        BC["📝 Blog Commander<br/>Multi-Blog"]
+        BD["🎨 Blog Designer<br/>Templates"]
+        KB["📋 Kanban Board<br/>Projekte"]
+    end
 
-### 🏠 Hub — Zentrales Command Center
+    subgraph INFRA["⚙️ Backend"]
+        LS["💾 localStorage<br/>Offline-First"]
+        GH["📡 GitHub API<br/>Projects + Issues"]
+        NB["🌉 NanoChat<br/>Port 3040"]
+        FJ["📋 features.json<br/>Registry"]
+    end
 
-<img src="docs/images/gallery-hub.png" width="720" alt="DEVKiTZ Hub">
+    HUB --> VG & DG & BG & N8 & BU
+    HUB --> NC & WH & SC & BC & BD & KB
+    SH -.-> VG & DG & BG & N8 & BU & NC & WH & SC & BC & BD & KB
+    NC & WH & SC & BC --> LS & GH & NB & FJ
 
-> Auto-Discovery Engine scannt alle Module, Health-Checks, Live-Status, Echtzeit-Suche und Kategorien-Filter.
-
-### 🛠️ Builder — Visuelle Editoren
-
-<img src="docs/images/gallery-builders.png" width="720" alt="DEVKiTZ Builders">
-
-> Agent Builder (Node-basiert), Skill Builder, Workflow Builder, Action Builder — alles Drag & Drop.
-
----
-
-## 🏗️ Architektur
-
-```
-DEVKiTZ/
-├── 01_PROJECTS/
-│   └── 01_dashboard/          # Haupt-Dashboard
-│       ├── hub/               # Hub + Gate (Landing Page)
-│       ├── modules/           # 130+ Module
-│       │   ├── agent-builder/ # Visueller Agent-Editor
-│       │   ├── ai_chat/       # Multi-Provider AI Chat
-│       │   ├── graphify/      # Knowledge-Graph Visualizer
-│       │   ├── wissen-hub/    # Wissens-Archiv + NLM
-│       │   └── ...            # 126 weitere Module
-│       └── shared/            # Shared Scripts + Design System
-│           ├── dkz-theme.css  # CSS Custom Properties
-│           ├── dkz-navbar.js  # Navigation
-│           ├── dkz-debug.js   # Debug-Modus
-│           ├── dkz-gate.js    # Auth-Guard
-│           └── dkz-copilot.js # AI Assistent
-├── 04_SYSTEM/
-│   ├── BOTNET/                # NanoBot Docker Schwarm
-│   └── DEVKITZ_WIKI/          # Dokumentation
-├── ONTHERUN/
-│   └── services/              # Backend Services
-│       ├── rail-loop/         # 4-Stufen Text-Pipeline
-│       ├── embeddings/        # MiniLM Embedding Server
-│       └── matrix-bridge/     # Matrix Chat Bridge
-└── docs/                      # Bilder + Dokumentation
+    style DASHBOARD fill:#060608,stroke:#fa1e4e,stroke-width:3px,color:#fff
+    style GALLERIES fill:#060608,stroke:#6366f1,stroke-width:2px,color:#fff
+    style TOOLS fill:#060608,stroke:#3b82f6,stroke-width:2px,color:#fff
+    style INFRA fill:#060608,stroke:#00ff88,stroke-width:2px,color:#fff
 ```
 
 ---
 
-## 🎨 Design System
+## 📦 Modul-Katalog (132+)
 
-DEVKiTZ nutzt ein eigenes **CSS Custom Properties Design System** — kein Tailwind, kein Bootstrap.
+### 🎨 Design & Galerien (8 Module)
 
-```css
-:root {
-    --accent: #fa1e4e;     /* Hot Pink */
-    --bg:     #060608;     /* Deep Black */
-    --green:  #00ff88;     /* Neon Green */
-    --yellow: #ffb800;     /* Warning */
-    --red:    #ff3b5c;     /* Error */
-    --purple: #a855f7;     /* AI Purple */
-    --font:   'Inter', sans-serif;
-    --mono:   'JetBrains Mono', monospace;
-}
+| Modul | AppID | Features | Status |
+|:------|:------|:---------|:-------|
+| 🎨 **Vibe Gallery** | DKZ-VIB-001 | 12 CSS Vibes, Lightbox, Filter, Copy CSS | `🟢 v0.01` |
+| 🎨 **Design Gallery** | DKZ-DSG-002 | 15 UI Patterns, Live Preview, Token Grid | `🟢 v0.01` |
+| 🏗️ **Builder Gallery** | DKZ-BLD-001 | 67 Design Assets, Kategorien | `🟢 Active` |
+| 🎨 **DkZ Design Studio** | DKZ-DST-001 | Vollständiges Design-Tool | `🟢 Active` |
+| 📸 **Gallery** | DKZ-GAL-001 | Screenshot-Archiv, 3.608+ Screenshots | `🟢 Active` |
+| 🌊 **OpenClaw Vibe** | DKZ-OCV-001 | Vibe Coding Interface | `🟢 Active` |
+| 🎨 **Theme Editor** | DKZ-THE-001 | CSS Variable Live-Editor | `🟢 Active` |
+| 📐 **Layout Builder** | DKZ-LAY-001 | Drag-Drop Layout-Generator | `🟢 Active` |
+
+### 📝 Content & Blog (6 Module)
+
+| Modul | AppID | Features | Status |
+|:------|:------|:---------|:-------|
+| 📰 **Blog Gallery** | DKZ-BLG-002 | 12 Posts, Kalender, Blog-Netzwerk | `🟢 v0.01` |
+| 📝 **Blog Commander** | DKZ-BCM-001 | Multi-Blog Verwaltung, Posting | `🟢 Active` |
+| 🎨 **Blog Designer** | DKZ-BDS-001 | Template Editor, DkZ Themes | `🟢 Active` |
+| 📚 **NLM Integration** | DKZ-NLM-001 | NotebookLM Content Pipeline | `🟢 Active` |
+| 🎙️ **Podcast Player** | DKZ-POD-001 | Audio + Transkription | `🟡 WIP` |
+| 📧 **Newsletter** | DKZ-NWS-001 | Email Campaign Builder | `🟡 Planned` |
+
+### 🤖 Agents & Automation (5 Module)
+
+| Modul | AppID | Features | Status |
+|:------|:------|:---------|:-------|
+| 🤖 **NanoBot Center** | DKZ-NBC-001 | Agent Fleet, Custom Themes, Shortcuts | `🟢 Active` |
+| 🔄 **n8n Viewer** | DKZ-N8N-001 | 3.815 Templates, Gallery, Canvas | `🟢 Active` |
+| 📊 **Loop Dashboard** | DKZ-LPD-001 | Ralph-Loop™ Monitoring | `🟢 Active` |
+| 🏗️ **Workflow Builder** | DKZ-WFB-001 | Visual Drag-Drop Nodes | `🟡 WIP` |
+| 🤖 **Agent Dashboard** | DKZ-AGD-001 | BMAD Agent Status | `🟢 Active` |
+
+### 📊 Analytics & Monitoring (4 Module)
+
+| Modul | AppID | Features | Status |
+|:------|:------|:---------|:-------|
+| 📊 **System Check** | DKZ-SYC-001 | Health Monitor, Ampel-System | `🟢 Active` |
+| 📊 **GitHub Hub** | DKZ-GHH-001 | 5 Tabs, 7 Systeme, 8 Loops | `🟢 Active` |
+| 📈 **Analytics** | DKZ-ANA-001 | Charts, Metriken, Reports | `🟢 Active` |
+| 🔴 **REDNOTE Viewer** | DKZ-RNV-001 | Fehler-DB Browser | `🟢 Active` |
+
+### 🌐 Knowledge & Research (3 Module)
+
+| Modul | AppID | Features | Status |
+|:------|:------|:---------|:-------|
+| 📚 **WissenHub** | DKZ-WIS-001 | Archive, Studio, 11 Tabs | `🟢 Active` |
+| 🔬 **Research Hub** | DKZ-RSH-001 | Recherche-Ergebnisse | `🟢 Active` |
+| 📖 **Wiki** | DKZ-WIK-001 | DEVKiTZ Dokumentation | `🟢 Active` |
+
+---
+
+## 🎨 Design System v2
+
+### Farben
+
+| Token | Hex | Preview | Verwendung |
+|:------|:----|:--------|:-----------|
+| `--bg` | `#060608` | ![#060608](https://via.placeholder.com/20/060608/060608) | Hintergrund |
+| `--card` | `#1a1a1c` | ![#1a1a1c](https://via.placeholder.com/20/1a1a1c/1a1a1c) | Karten |
+| `--accent` | `#fa1e4e` | ![#fa1e4e](https://via.placeholder.com/20/fa1e4e/fa1e4e) | Akzent (Neon Rot) |
+| `--green` | `#00ff88` | ![#00ff88](https://via.placeholder.com/20/00ff88/00ff88) | Erfolg |
+| `--blue` | `#55ACEE` | ![#55ACEE](https://via.placeholder.com/20/55ACEE/55ACEE) | Info |
+| `--yellow` | `#FFB800` | ![#FFB800](https://via.placeholder.com/20/FFB800/FFB800) | Warnung |
+| `--purple` | `#a855f7` | ![#a855f7](https://via.placeholder.com/20/a855f7/a855f7) | Feature |
+
+### Typography
+
+| Element | Font | Weight | Größe |
+|:--------|:-----|:-------|:------|
+| Headlines | Inter | 800-900 | 1.1-2.5rem |
+| Body | Inter | 400-600 | 0.7-0.9rem |
+| Code | JetBrains Mono | 400-700 | 0.6-0.8rem |
+| Badges | JetBrains Mono | 700 | 0.55rem |
+
+### Komponenten
+
+| Komponente | Technik |
+|:-----------|:--------|
+| Cards | `backdrop-filter:blur(20px)` + `rgba(26,26,28,.85)` |
+| Buttons | `linear-gradient(135deg, var(--accent), #ec4899)` |
+| Badges | `rgba(250,30,78,.1)` + `border-radius:12px` |
+| Toasts | `transform:translateY()` + Slide-In |
+| Modals | `position:fixed` + `backdrop-filter:blur(10px)` |
+| Inputs | `border:1px solid var(--border)` + Focus Glow |
+
+---
+
+## 🔗 Shared Scripts
+
+| Script | Größe | Zweck |
+|:-------|:------|:------|
+| `dkz-theme.css` | 8KB | Globales Design System, CSS Variables |
+| `dkz-navbar.js` | 6KB | Navigation Bar mit Modul-Links |
+| `dkz-console.js` | 4KB | In-Browser Console (`:help`, `:status`) |
+| `dkz-debug.js` | 5KB | Debug-Panel mit localStorage Viewer |
+| `dkz-guide.js` | 3KB | Onboarding Tour für neue Nutzer |
+| `dkz-james.js` | 7KB | James™ Guardian Agent im Browser |
+| `dkz-toast.js` | 2KB | Notification System |
+
+---
+
+## 📁 Struktur
+
+```
+D-VKITZ.github.io/
+├── index.html                 # Landing Page
+├── hub/                       # Modul-Launcher
+│   └── index.html             # Hub mit Suche + Filter
+├── modules/                   # 132+ Module
+│   ├── vibe-gallery/          # 🎨 12 CSS Vibes
+│   ├── design-gallery/        # 🎨 15 UI Patterns
+│   ├── blog-gallery/          # 📰 Blog Showcase
+│   ├── n8n-viewer/            # 🔄 3.815 Workflows
+│   ├── nanobot-center/        # 🤖 Agent Fleet
+│   ├── wissen-hub/            # 📚 Knowledge Archive
+│   ├── system-check/          # 📊 Health Monitor
+│   ├── github-hub/            # 📊 GitHub Integration
+│   ├── blog-commander/        # 📝 Multi-Blog
+│   ├── blog-designer/         # 🎨 Templates
+│   ├── builder-gallery/       # 🏗️ 67 Assets
+│   ├── dkz-design-studio/     # 🎨 Design Tool
+│   └── ... (120+ weitere)
+├── shared/                    # Shared Scripts
+│   ├── dkz-theme.css
+│   ├── dkz-navbar.js
+│   ├── dkz-console.js
+│   ├── dkz-debug.js
+│   ├── dkz-guide.js
+│   └── dkz-james.js
+└── features.json              # Modul-Registry
 ```
 
-**Glassmorphism-Karten** mit `backdrop-filter: blur(24px)` und subtilen Gradient-Borders. Jedes Modul erbt automatisch das Theme über `dkz-theme.css`.
-
 ---
 
-## 📊 Modul-Status
+## 🔗 Ökosystem-Links
 
-| Status | Anzahl | Beschreibung |
-|:-------|:-------|:-------------|
-| ✅ **AKTIV** | 7 | Voll funktional, getestet |
-| ⚠️ **VERALTET** | 13 | Laden, brauchen API-Updates |
-| 🔵 **COMING SOON** | 5 | In aktiver Entwicklung |
-| 🟡 **DEV** | 6 | Prototyp / Konzept |
-| ⬜ **GEPLANT** | 4 | Roadmap |
-
-**Gesamt: 35 registrierte Module im Hub + 96 weitere Module im Verzeichnis**
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Repository klonen
-git clone https://github.com/7IKED/devkitz-workspace.git
-cd devkitz-workspace
-
-# Lokalen Server starten (Python)
-python -m http.server 8080 -d 01_PROJECTS/01_dashboard
-
-# Oder mit Node.js
-npx serve 01_PROJECTS/01_dashboard
-
-# Öffne http://localhost:8080
-# Passphrase: dkz777
-```
-
----
-
-## 🤖 BMAD Methodik
-
-DEVKiTZ nutzt die **BMAD™ Methodik** (Blueprint → Mapping → Analyse → Design) mit 7 spezialisierten Agenten:
-
-| Agent | Rolle |
-|:------|:------|
-| 🎯 **James™** | Guardian — überwacht alle, coded nicht |
-| 📋 **DkZ PM™** | Product Manager — Specs & User Stories |
-| 🏗️ **Architekt™** | Architektur & Tech-Stack |
-| 👨‍💻 **Developer™** | Code-Execution im Ralph-Loop |
-| 🔍 **Reviewer™** | Qualitätsprüfung (CodeRabbit) |
-| 🧪 **Tester™** | Tests & Validierung |
-| 📚 **Dokumentar™** | README, Wiki, Learnings |
-
----
-
-## 🔄 Ralph-Loop™
-
-Jeder Task durchläuft den **Ralph-Loop™** — 6 Phasen für kontextfrischen Code:
-
-```
-1. LESEN    → Relevante Artefakte laden
-2. SPAWN    → Frischer Kontext (kein Drift!)
-3. EXECUTE  → Developer™ schreibt Code
-4. VERIFY   → Tester™ + Reviewer™ prüfen
-5. COMMIT   → Git + prd.json Update
-6. LOOP     → Nächster Task
-```
-
----
-
-## 🛡️ Sicherheit
-
-- **XSS-Schutz**: `esc()` bei jedem `innerHTML` — System-weit enforced
-- **Gate-System**: Beta-Access mit Token-basierter Auth
-- **Passkey Auth**: WebAuthn/FIDO2 für Biometrie-Login (Demo)
-- **Security Scanner**: Automatische Vulnerability-Checks
-- **CORS**: Kein externer API-Zugriff ohne Whitelist
-
----
-
-## 💎 Unterstützen
-
-DEVKiTZ™ ist ein Solo-Projekt. Jede Unterstützung hilft:
-
-| Tier | Preis | Perks |
-|:-----|:------|:------|
-| 💚 **Supporter** | €5 | Name im README + Beta-Zugang |
-| 🔨 **Builder** | €15 | Supporter + Priority Features + Discord |
-| 🚀 **Pioneer** | €50 | Builder + Custom Modul + 1:1 Call |
-| 👑 **Legend** | €100 | Pioneer + Lifetime Access + Co-Creator Badge |
-
-[→ **Jetzt unterstützen**](https://7iked.github.io/devkitz-workspace/hub/gate.html)
-
----
-
-## 📋 Tech Stack
-
-| Bereich | Technologie |
-|:--------|:------------|
-| Frontend | Vanilla HTML5 + CSS3 + JS ES6+ |
-| Design | DkZ Design System v2 (CSS Custom Properties) |
-| Fonts | Inter (UI) + JetBrains Mono (Code) |
-| Backend | Node.js 18+ / Express |
-| Data | localStorage (Offline-First) + DuckDB |
-| CI/CD | GitHub Actions + Docker |
-| Hosting | GitHub Pages + Hostinger VPS |
-| AI | Gemma 4, Qwen Coder, Deepseek R1 (lokal) |
-
----
-
-## 📝 Lizenz
-
-Proprietäre Lizenz — © 2026 777. Alle Rechte vorbehalten.
-Beta-Zugang verfügbar über das [Gate-System](https://7iked.github.io/devkitz-workspace/).
+| Resource | Beschreibung | Link |
+|:---------|:-------------|:-----|
+| 🤖 **BMAD™** | 7-Agenten Framework | [bmad-framework](https://github.com/D-VKITZ/bmad-framework) |
+| 🤖 **Agent Swarm™** | Multi-Agent Orchestrierung | [agent-swarm](https://github.com/D-VKITZ/agent-swarm) |
+| ⚙️ **KERN** | Infrastruktur + Scripts | [KERN](https://github.com/D-VKITZ/KERN) |
+| 💻 **BB-Terminal** | Browser Terminal | [BB-Terminal](https://github.com/D-VKITZ/BB-Terminal) |
+| 📊 **Projects** | 12 Kanban Boards, 87+ Items | [GitHub Projects](https://github.com/orgs/D-VKITZ/projects) |
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by 777**
-
-⚡ DEVKiTZ™ — *Build Different*
+*[DEVKiTZ™](https://github.com/D-VKITZ) Ökosystem · 132+ Module · 7 Agenten · Made with ❤️ by 777*
 
 </div>
